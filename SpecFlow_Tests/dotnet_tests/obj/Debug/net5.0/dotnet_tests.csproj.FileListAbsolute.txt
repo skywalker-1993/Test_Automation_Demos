@@ -1,0 +1,16 @@
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\obj\Debug\net5.0\dotnet_tests.csprojAssemblyReference.cache
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\obj\Debug\net5.0\dotnet_tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\obj\Debug\net5.0\dotnet_tests.AssemblyInfoInputs.cache
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\obj\Debug\net5.0\dotnet_tests.AssemblyInfo.cs
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\obj\Debug\net5.0\dotnet_tests.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\bin\Debug\net5.0\dotnet_tests.exe
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\bin\Debug\net5.0\dotnet_tests.deps.json
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\bin\Debug\net5.0\dotnet_tests.runtimeconfig.json
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\bin\Debug\net5.0\dotnet_tests.runtimeconfig.dev.json
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\bin\Debug\net5.0\dotnet_tests.dll
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\bin\Debug\net5.0\ref\dotnet_tests.dll
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\bin\Debug\net5.0\dotnet_tests.pdb
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\obj\Debug\net5.0\dotnet_tests.dll
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\obj\Debug\net5.0\ref\dotnet_tests.dll
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\obj\Debug\net5.0\dotnet_tests.pdb
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\dotnet_tests\obj\Debug\net5.0\dotnet_tests.genruntimeconfig.cache

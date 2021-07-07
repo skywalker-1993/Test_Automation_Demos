@@ -1,0 +1,5 @@
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\Demo\src\steps\obj\Debug\net5.0\steps.csprojAssemblyReference.cache
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\Demo\src\steps\obj\Debug\net5.0\steps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\Demo\src\steps\obj\Debug\net5.0\steps.AssemblyInfoInputs.cache
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\Demo\src\steps\obj\Debug\net5.0\steps.AssemblyInfo.cs
+C:\Users\tiago\Documents\GitHub\SpecFlow_Tests\Demo\src\steps\obj\Debug\net5.0\steps.csproj.CoreCompileInputs.cache
